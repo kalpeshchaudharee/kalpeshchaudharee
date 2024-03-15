@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalpeshchaudharee
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel, vueJs
+- 🌱 I’m currently work as frontend Engneer
 - 📫 How to reach me : kalpeshchaudhari893@gmail.com
 
 <!---
